@@ -1,6 +1,6 @@
 {
   "name": "react-countdown-hoc",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "countdown React component",
   "main": "build/index.js",
   "module": "build/index.es.js",
