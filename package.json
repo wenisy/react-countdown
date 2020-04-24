@@ -11,7 +11,7 @@
     "format": "prettier-standard --format",
     "test": "jest --coverage",
     "prepublish": "yarn build",
-    "storybook": "start-storybook"
+    "start": "start-storybook"
   },
   "author": "wenisy",
   "homepage": "https://github.com/wenisy/react-countdown",
