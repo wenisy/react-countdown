@@ -1,2 +1,2 @@
-import MyComponent from './components/MyComponent';
-export { MyComponent };
+import Countdown from './components/Countdown';
+export { Countdown };
