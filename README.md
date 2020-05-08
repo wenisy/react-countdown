@@ -4,6 +4,7 @@ It's a `render props` component, or `FaCC(Function as Child Component)`.
 know more details about `render props` [Render Props – React](https://reactjs.org/docs/render-props.html)
 
 ## Use this Component
+`yarn add react-countdown-hoc` to install the latest version
 
 ```javascript
 <Countdown intervalSecond={1} duration={60}>
